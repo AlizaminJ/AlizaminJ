@@ -41,17 +41,16 @@ I am a Solutions Architect — currently focused on data science & engineering, 
 <tr>
 <td valign="top" width="50%">
 
-**Recent GitHub Activity**
+**GitHub Stats**
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+![Alizamin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlizaminJ&show_icons=true&hide_border=true)
 
 </td>
 <td valign="top" width="50%">
 
-**GitHub Stats**
+**Activity Graph**
 
-![Alizamin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlizaminJ&show_icons=true&hide_border=true)
+![Alizamin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlizaminJ&theme=react-dark&hide_border=true)
 
 </td>
 </tr>
