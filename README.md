@@ -63,6 +63,7 @@ I am a Solutions Architect — currently focused on data science & engineering, 
 No blog yet — first post coming soon, stay tuned! 📝
 
 <!-- BLOG-POST-LIST:START -->
+- [Choosing the Right Agentic AI Framework on AWS](https://dev.to/alizaminj/choosing-the-right-agentic-ai-framework-on-aws-160n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
