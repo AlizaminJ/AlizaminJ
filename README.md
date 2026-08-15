@@ -43,7 +43,7 @@ I am a Solutions Architect — currently focused on data science & engineering, 
 
 **GitHub Stats**
 
-![Alizamin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlizaminJ&show_icons=true&hide_border=true)
+![Alizamin's GitHub Stats](https://github-stats-extended.vercel.app/api?username=AlizaminJ&show_icons=true&hide_border=true)
 
 </td>
 <td valign="top" width="50%">
@@ -60,11 +60,11 @@ I am a Solutions Architect — currently focused on data science & engineering, 
 
 ### 📕 Latest Blog Posts
 
-No blog yet — first post coming soon, stay tuned! 📝
-
 <!-- BLOG-POST-LIST:START -->
 - [Choosing the Right Agentic AI Framework on AWS](https://dev.to/alizaminj/choosing-the-right-agentic-ai-framework-on-aws-160n)
 <!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://dev.to/alizaminj)
 
 ---
 
