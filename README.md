@@ -61,6 +61,7 @@ I am a Solutions Architect — currently focused on data science & engineering, 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Stop Putting Secrets in Plaintext](https://dev.to/alizaminj/stop-putting-secrets-in-plaintext-4khd)
 - [Choosing the Right Agentic AI Framework on AWS](https://dev.to/alizaminj/choosing-the-right-agentic-ai-framework-on-aws-160n)
 <!-- BLOG-POST-LIST:END -->
 
