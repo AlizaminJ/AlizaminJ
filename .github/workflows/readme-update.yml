@@ -11,8 +11,8 @@ jobs:
   update-blog:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+      - uses: gautamkrishnar/blog-post-workflow@28b22c9f8c9f4fa4b1c3e210bd5c3aaa00dff596
         with:
           feed_list: 'https://dev.to/feed/alizaminj'
           max_post_count: 5

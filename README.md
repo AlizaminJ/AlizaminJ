@@ -50,7 +50,7 @@ I am a Solutions Architect — currently focused on data science & engineering, 
 
 **Activity Graph**
 
-![Alizamin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlizaminJ&theme=react-dark&hide_border=true)
+![Alizamin's Activity Graph](activity-graph.svg)
 
 </td>
 </tr>
