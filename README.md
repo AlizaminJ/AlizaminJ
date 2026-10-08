@@ -61,6 +61,7 @@ I am a Solutions Architect — currently focused on data science & engineering, 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mirroring an Android Phone to a Mac](https://dev.to/alizaminj/mirroring-an-android-phone-to-a-mac-2m3g)
 - [My GitHub Activity Graph Went Offline—So I Made It Static](https://dev.to/alizaminj/my-github-activity-graph-went-offline-so-i-made-it-static-4he0)
 - [Stop Putting Secrets in Plaintext](https://dev.to/alizaminj/stop-putting-secrets-in-plaintext-4khd)
 - [Choosing the Right Agentic AI Framework on AWS](https://dev.to/alizaminj/choosing-the-right-agentic-ai-framework-on-aws-160n)
